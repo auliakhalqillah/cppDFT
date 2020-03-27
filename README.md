@@ -1,4 +1,4 @@
-# dft_code_cpp
+# Discrete Fourier Transform (DFT)
 The numerical code of Discrete Fourier Transform in C++ program language
 # How to compile
 c++ -o dft dft_code.cpp
